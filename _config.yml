@@ -3,21 +3,21 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
+name: William Manley
+title: Student
+email: wm395@bath.ac.uk
+phone: 07792475233
 cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  moya10
+github_username:  WilliamManley
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-#linkedin_username: jekyll
+linkedin_username: williampmanley
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
