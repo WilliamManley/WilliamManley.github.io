@@ -1,6 +1,6 @@
 # Project template
 - layout: top-middle
-  name: Project name
+  name: MicroscoPi
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -9,7 +9,7 @@
     Description about the work on/with the project
 
 - layout: top-middle
-  name: Project name
+  name: Structural Stress Analysis in OpenFOAM 
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
