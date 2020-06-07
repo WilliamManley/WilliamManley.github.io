@@ -24,13 +24,13 @@
         {%- include projects.html -%}
       {%- endif -%}
 
-
-      {%- if site.data.experience.size > 0 -%}
-        {%- include experience.html -%}
-      {%- endif -%}
-
       {%- if site.more_content -%}
         {%- include more.html -%}
+
+        {%- if site.data.experience.size > 0 -%}
+          {%- include experience.html -%}
+        {%- endif -%}
+
       {%- endif -%}
 
     </div>
