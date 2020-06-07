@@ -4,7 +4,7 @@
   link: https://micronoxford.com/microscopi
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    An overview of the project and its current state can be found [here](https://micronoxford.com/microscopi)
+    An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
 
