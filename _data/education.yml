@@ -1,6 +1,6 @@
 # Education Template
-layout: left
-  name: University of Oxfotd
+- layout: left
+  name: University of Oxford
   dates:  2020 - 2021
   qualification: MSc Mathematical Sciences
   quote: >
