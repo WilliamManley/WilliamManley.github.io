@@ -1,10 +1,10 @@
 # Project template
 - layout: top-middle
   name: MicroscoPi
-  link: An overview of the project and its current state can be found [here](https://micronoxford.com/microscopi)
+  link: https://micronoxford.com/microscopi
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project
+    An overview of the project and its current state can be found [here](https://micronoxford.com/microscopi)
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
 
