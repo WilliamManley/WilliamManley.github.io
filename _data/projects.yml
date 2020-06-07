@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
   name: MicroscoPi
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  link: An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Short overview of the project (optional)
@@ -9,7 +9,7 @@
     Description about the work on/with the project
 
 - layout: top-middle
-  name: Structural Stress Analysis in OpenFOAM 
+  name: Structural Stress Analysis in OpenFOAM
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
