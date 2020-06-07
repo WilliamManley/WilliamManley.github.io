@@ -16,9 +16,10 @@
     sample slide and readily obtain an observable sample. <br> <br>
     **Main Challenges:** <br>
     **No Reference Image:**
-    One thing that made this project unique was had no 'reference image' to work
-    against, since we needed to apply our module to any prepared sample, and we
-    were starting from a completely unfocused image. <br>
+    One thing that made this project unique was having no 'reference image' to compare
+    against, since we needed to apply our module to any given prepared sample, and we
+    were starting from a completely unfocused image. Hence, a "no reference pixel based" method
+    (NRP) as commonly referenced in relevant literature was employed as the logical approach. <br>
     **Quantifying Focus:**
     The main problem that we needed to address was how to devise a metric to
     quantify how in/out of focus a sample is at each stage of the automated process. This
