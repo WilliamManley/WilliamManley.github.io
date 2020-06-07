@@ -7,7 +7,8 @@
   quote: >
     An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
   description: | # this will include new lines to allow paragraphs
-    An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
+    Under supervision of the Micron research group at the University of Oxford, |
+    I worked on early stage development of the MicroscoPi imaging platform.  
 
 - layout: top-middle
   name: Structural Stress Analysis in OpenFOAM
