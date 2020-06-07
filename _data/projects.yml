@@ -7,8 +7,12 @@
   quote: >
     An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
   description: | # this will include new lines to allow paragraphs
-    Under supervision of the Micron research group at the University of Oxford, |
-    I worked on early stage development of the MicroscoPi imaging platform.  
+    Under supervision of the Micron research group at the University of Oxford,
+    I worked on early stage development of the MicroscoPi imaging platform.
+    The aim of the project was to produce a fully automated, robust, 3D printed
+    microscopy platform. Specifically, my task was to develop and implement a
+    fully automated autofocus module that the user could run on any given sample
+    and obtain an infocus sample. 
 
 - layout: top-middle
   name: Structural Stress Analysis in OpenFOAM
