@@ -1,6 +1,7 @@
 # Project template
 - layout: top-middle
   name: MicroscoPi Automated Imaging Platform
+  dates: Date Range (eg. November 2016 - present)
   link: https://micronoxford.com/
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
