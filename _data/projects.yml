@@ -7,13 +7,26 @@
   quote: >
     An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
   description: | # this will include new lines to allow paragraphs
-    **Project Outline:** Under supervision of the Micron research group at the University of Oxford,
+    **Project Outline:** <br>
+    Under supervision of the Micron research group at the University of Oxford,
     I worked on early stage development of the MicroscoPi imaging platform.
     The aim of the project was to produce a fully automated, robust, 3D printed
     microscopy platform. Specifically, my task was to develop and implement a
     fully automated autofocus module that the user could run on any prepared
     sample slide and readily obtain an observable sample. <br>
-    **Challenges:**
+    **Challenges:** <br>
+    **No Reference Image:**
+    One thing that made this project unique was had no 'reference image' to work
+    against, since we needed to apply our module to any prepared sample, and we
+    were starting from a completely unfocused image. <br>
+    **Quantifying Focus**
+    The main problem that we needed to address was how to devise a metric to
+    quantify how in/out of focus a sample is at each stage of the process. This
+    corresponded to characterising the image artefact of 'blur' at each stage. <br>
+    **Project Report:** A report detailing the progress that I made with the projects_title
+    can be found here. <br>
+    **Project Presentation:** A presentation of my research can be found here. 
+
 
 - layout: top-middle
   name: Structural Stress Analysis in OpenFOAM
