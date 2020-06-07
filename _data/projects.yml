@@ -13,8 +13,8 @@
     The aim of the project was to produce a fully automated, robust, 3D printed
     microscopy platform. Specifically, my task was to develop and implement a
     fully automated autofocus module that the user could run on any prepared
-    sample slide and readily obtain an observable sample. <br>
-    **Challenges:** <br>
+    sample slide and readily obtain an observable sample. <br> <br>
+    **Main Challenges:** <br>
     **No Reference Image:**
     One thing that made this project unique was had no 'reference image' to work
     against, since we needed to apply our module to any prepared sample, and we
@@ -25,7 +25,7 @@
     corresponded to characterising the image artefact of 'blur' at each stage. <br>
     **Project Report:** A report detailing the progress that I made with the projects_title
     can be found here. <br>
-    **Project Presentation:** A presentation of my research can be found here. 
+    **Project Presentation:** A presentation of my research can be found here.
 
 
 - layout: top-middle
