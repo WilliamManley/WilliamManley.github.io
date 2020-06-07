@@ -19,12 +19,11 @@
     One thing that made this project unique was had no 'reference image' to work
     against, since we needed to apply our module to any prepared sample, and we
     were starting from a completely unfocused image. <br>
-    **Quantifying Focus**
+    **Quantifying Focus:**
     The main problem that we needed to address was how to devise a metric to
     quantify how in/out of focus a sample is at each stage of the process. This
     corresponded to characterising the image artefact of 'blur' at each stage. <br>
-    **Project Report:** A report detailing the progress that I made with the projects_title
-    can be found here. <br>
+    **Project Report:** A report detailing the progress that I made can be found here. <br>
     **Project Presentation:** A presentation of my research can be found here.
 
 
