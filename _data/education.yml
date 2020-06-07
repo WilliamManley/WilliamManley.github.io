@@ -4,15 +4,17 @@
   dates:  2020 - 2021
   qualification: MSc Mathematical Sciences
   quote: >
-    Short institution or course description (optional)
+    Exeter college (Link)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  Detailed information of the course can be found here.
 
 - layout: left
   name: University of Bath
   dates: 2017 - 2020
-  qualification: BSc Mathematics
-  quote: >
-    Short institution or course description (optional)
+  qualification: BSc Mathematics (hons)
+                 result: expected first class
+  quote: > My final transcript can be found here.
+
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  Detailed information of the course can be found here.
+  A descriptive list of modules that I took can be found here.
