@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
-  name: MicroscoPi
-  link: https://micronoxford.com/microscopi
+  name: MicroscoPi Automated Imaging Platform
+  link: https://micronoxford.com/
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
