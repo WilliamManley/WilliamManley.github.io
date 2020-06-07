@@ -6,7 +6,7 @@
   quote: >
     An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
 
 - layout: top-middle
   name: Structural Stress Analysis in OpenFOAM
