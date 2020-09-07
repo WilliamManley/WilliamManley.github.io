@@ -6,8 +6,7 @@
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
-  #image: <img src="images/cyclops.png">
-  #projects_cyclops_image: images/cyclops.png
+  about_profile_image: ../images/cyclops.png
   description: | # this will include new lines to allow paragraphs
     **Project Outline:** <br>
     Under supervision of the Micron research group at the University of Oxford,
