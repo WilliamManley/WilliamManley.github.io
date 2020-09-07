@@ -4,14 +4,14 @@
   dates:  2020 - 2021
   qualification: MSc Mathematical Sciences
   quote: >
-   I am affiliated with Exeter college (Link)
+   I am a graduate student at Exeter college (Link)
   description: | # this will include new lines to allow paragraphs
    Detailed information of the course can be found here.
 
 - layout: left
   name: University of Bath
   dates: 2017 - 2020
-  qualification: BSc Mathematics (hons) #result: Expected first class
+  qualification: BSc Mathematics: First-Class Honours
   quote: >
    My final transcript can be found here.
   description: | # this will include new lines to allow paragraphs
