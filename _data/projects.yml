@@ -1,12 +1,13 @@
 # Project template
 - layout: top-middle
+  about_profile_image: ../images/cyclops.png
   name: MicroscoPi Automated Imaging Platform
   dates: June - August 2019
   link: https://micronoxford.com/
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
-  about_profile_image: ../images/cyclops.png
+  #about_profile_image: ../images/cyclops.png
   description: | # this will include new lines to allow paragraphs
     **Project Outline:** <br>
     Under supervision of the Micron research group at the University of Oxford,
