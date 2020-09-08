@@ -11,8 +11,9 @@
 - layout: left
   name: University of Bath
   dates: 2017 - 2020
-  qualification: | BSc Mathematics
-                   First-Class Honours
+  qualification: | # this will include new lines to allow paragraphs
+   BSc Mathematics
+   First-Class Honours
   quote: >
    My final transcript can be found here.
   description: | # this will include new lines to allow paragraphs
