@@ -21,12 +21,11 @@
   quote: >
    My official transcript can be found <a href="documents/WilliamManleyTranscript.pdf">here</a>.
   description: | # this will include new lines to allow paragraphs
-   <p>
-   <img src="images/bath_logo2.png" alt="Bath Logo" style="float:right;width:146px;height:60px;">
+#   <p>
+#   <img src="images/bath_logo2.png" alt="Bath Logo" style="float:right;width:146px;height:60px;">
    I studied for my undergraduate degree in mathematics at the University of Bath, specialising in applied
    mathematics. I graduated with a First-Class Honours.
-   </p>
-
-#   <img src="bath_logo2.png" alt="Smiley face" style="float:left;width:42px;height:42px;">
+#   </p>
+   <img src="images/bath_logo2.png" alt="Smiley face" style="float:left;width:42px;height:42px;">
 
 # {% include image.html file="bath_logo2.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
