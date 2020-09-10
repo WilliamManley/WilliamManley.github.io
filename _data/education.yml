@@ -17,4 +17,5 @@
   quote: >
    My official transcript can be found <a href="documents/WilliamManleyTranscript.pdf">here</a>.
   description: | # this will include new lines to allow paragraphs
-   I studied for my undergraduate degree in mathematics at the University of Bath, graduating with a First-Class Honours. 
+   {% include image.html file="bath_logo2.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
+   I studied for my undergraduate degree in mathematics at the University of Bath, graduating with a First-Class Honours.
