@@ -4,7 +4,7 @@
   dates: |
    2020 - 2021 <br>
    <img src="images/exeter_college_logo.png" style="border:0px;margin:0px;float:left;width:50px;height;60px" />
-   <img src="images/oxford_logo.png" style="border:0px;margin:0px;clear:both;width:50px;height;60px" />
+   <img src="images/oxford_logo.png" style="border:0px;margin:0px;float:right;clear:both;width:50px;height;60px" />
 #   <img src="images/exeter_college_logo.png" hspace="20" alt="College Logo" style="width:50px;height:60px;">
 #   <img src="images/oxford_logo.png" hspace="20" alt="Oxford Logo" style="width:50px;height:60px;">
   qualification: MSc Mathematical Sciences
