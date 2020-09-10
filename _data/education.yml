@@ -1,7 +1,10 @@
 # Education Template
 - layout: left
   name: University of Oxford
-  dates:  2020 - 2021
+  dates: |
+   2020 - 2021 <br>
+   <img src="images/exeter_college_logo.png" alt="Bath Logo" style="width:146px;height:60px;"> <br>
+   <img src="images/oxford_logo.png" alt="Bath Logo" style="width:146px;height:60px;"> 
   qualification: MSc Mathematical Sciences
   quote: >
    Information on the course can be found <a href="https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-sciences">here</a>
@@ -16,11 +19,10 @@
   name: University of Bath
   dates: |
    2017 - 2020 <br>
-    <img src="images/bath_logo2.png" alt="Bath Logo" style="width:146px;height:60px;"> 
+   <img src="images/bath_logo2.png" alt="Bath Logo" style="width:146px;height:60px;">
   qualification: | # this will include new lines to allow paragraphs
    BSc Mathematics <br>
    First-Class Honours
-    <img src="images/bath_logo2.png" alt="Bath Logo" style="width:146px;height:60px;">
   quote: >
    My official transcript can be found <a href="documents/WilliamManleyTranscript.pdf">here</a>.
   description: | # this will include new lines to allow paragraphs
