@@ -16,7 +16,7 @@
   name: University of Bath
   dates: |
    2017 - 2020
-   <img src="images/bath_logo2.png" alt="Bath Logo" style="width:146px;height:60px;"> 
+    <img src="images/bath_logo2.png" alt="Bath Logo" style="width:146px;height:60px;"> 
   qualification: | # this will include new lines to allow paragraphs
    BSc Mathematics <br>
    First-Class Honours
