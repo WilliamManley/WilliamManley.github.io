@@ -18,10 +18,10 @@
    My official transcript can be found <a href="documents/WilliamManleyTranscript.pdf">here</a>.
   description: | # this will include new lines to allow paragraphs
    <p>
-   <img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
-   A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
+   <img src="images/bath_logo2.png" alt="Smiley face" style="float:right;width:42px;height:42px;">
+   A paragraph witsh a floating image. A paragraph with a floating image. A paragraph with a floating image.
    </p>
    I studied for my undergraduate degree in mathematics at the University of Bath, graduating with a First-Class Honours.
-   <img src="bath_logo2.png" alt="Smiley face" style="float:left;width:42px;height:42px;">
+#   <img src="bath_logo2.png" alt="Smiley face" style="float:left;width:42px;height:42px;">
 
 # {% include image.html file="bath_logo2.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
