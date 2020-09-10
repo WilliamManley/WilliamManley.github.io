@@ -33,8 +33,12 @@
   quote: >
    My official transcript can be found <a href="documents/WilliamManleyTranscript.pdf">here</a>.
   description: | # this will include new lines to allow paragraphs
-   <p>
+   <ul>
+   <li>
    I studied for my undergraduate degree in mathematics at the University of Bath, specialising in applied
    mathematics. I graduated with a First-Class Honours.
-   </p>
+   </li>
+   <li>
    During my time at Bath I was a part of the <a href="https://www.bath.ac.uk/campaigns/gold-scholarship-programme/">Gold Scholarship Programme</a>.
+   </li>
+   </ul>
