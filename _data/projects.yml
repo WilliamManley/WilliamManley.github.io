@@ -7,14 +7,14 @@
   quote: >
     An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
   description: | # this will include new lines to allow paragraphs
-    **Project Outline:** <br>
+    <u><b>Project Outline:</b></u> <br>
     Under supervision of the Micron research group at the University of Oxford,
     I worked on early stage development of the MicroscoPi imaging platform.
     The aim of the project was to produce a fully automated, robust, 3D printed
     microscopy platform. Specifically, my task was to develop and implement a
     fully automated autofocus module that the user could run on any prepared
     sample slide and readily obtain an observable sample. <br> <br>
-    <u><b>**Main Challenges:</b></u> <br>
+    <u><b>Main Challenges:</b></u> <br>
     **No Reference Image:**
     One thing that made this project unique was having no 'reference image' to compare
     against, since we needed to apply our module to any given prepared sample, and we
