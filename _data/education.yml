@@ -3,11 +3,10 @@
   name: University of Oxford
   dates:  2020 - 2021
   qualification: MSc Mathematical Sciences
-  #quote: >
+  quote: >
   # I am currently a graduate student at Exeter college *[Markdown Guide](https://www.markdownguide.org)*
   description: | # this will include new lines to allow paragraphs
-  
-   I am currently a graduate student at [Exeter college](https://www.exeter.ox.ac.uk/).
+  I am currently a graduate student at [Exeter college](https://www.exeter.ox.ac.uk/).
 
 - layout: left
   name: University of Bath
