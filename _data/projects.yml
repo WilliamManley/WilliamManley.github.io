@@ -14,7 +14,7 @@
     microscopy platform. Specifically, my task was to develop and implement a
     fully automated autofocus module that the user could run on any prepared
     sample slide and readily obtain an observable sample. <br> <br>
-    <span class="underline">**Main Challenges:**</span> <br>
+    <u>**Main Challenges:**</u> <br>
     **No Reference Image:**
     One thing that made this project unique was having no 'reference image' to compare
     against, since we needed to apply our module to any given prepared sample, and we
