@@ -6,7 +6,7 @@
   quote: >
    I am currently a graduate student at Exeter college *[Markdown Guide](https://www.markdownguide.org)*
   description: | # this will include new lines to allow paragraphs
-   Detailed information of the course can be found here.
+   Detailed information of the course can be found here. *[Markdown Guide](https://www.markdownguide.org)*
 
 - layout: left
   name: University of Bath
