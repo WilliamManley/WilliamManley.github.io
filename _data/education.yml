@@ -4,7 +4,7 @@
   dates:  2020 - 2021
   qualification: MSc Mathematical Sciences
   quote: >
-   Information on the course can be found [here](https://www.markdownguide.org)
+   Information on the course can be found <a href="https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-sciences">here</a>
   description: | # this will include new lines to allow paragraphs
    I am currently a graduate student at [Exeter college](https://www.exeter.ox.ac.uk/).
 
