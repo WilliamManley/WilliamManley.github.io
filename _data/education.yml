@@ -4,7 +4,7 @@
   dates:  2020 - 2021
   qualification: MSc Mathematical Sciences
   quote: >
-   I am currently a graduate student at Exeter college [link](https://www.google.com)
+   I am currently a graduate student at Exeter college *[Markdown Guide](https://www.markdownguide.org)*
   description: | # this will include new lines to allow paragraphs
    Detailed information of the course can be found here.
 
