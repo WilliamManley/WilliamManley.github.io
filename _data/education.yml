@@ -6,6 +6,7 @@
   quote: >
   # I am currently a graduate student at Exeter college *[Markdown Guide](https://www.markdownguide.org)*
   description: | # this will include new lines to allow paragraphs
+
    I am currently a graduate student at [Exeter college](https://www.exeter.ox.ac.uk/).
 
 - layout: left
