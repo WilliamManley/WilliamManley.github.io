@@ -1,10 +1,10 @@
 <div class="container projects-container">
   <h3>{{ site.projects_title | default: "Research Experience" }}</h3>
-  {% int i %}
-  {% i = 0 %}
+  {{ int i }}
+  {{ i = 0 }}
   {% for project in site.data.projects %}
-    {% i = i+1 %}
-    {% if i == 1 %}
+    {{ i = i+1 }}
+    {{ if i == 1 }}
        {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
        {% include carousel1.html height="70" unit="%" duration="1000" %}
     {% endif %}
