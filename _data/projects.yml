@@ -30,7 +30,7 @@
     corresponded to characterising the image artefact of 'blur' at each stage of the focal refinement process. Two metrics
     were developed, one using edge feature analysis and the other using Fourier spectra analysis.
     <br> <br>
-    <u><b> Project Outcomes </b></u>
+    <u><b> Project Outcomes </b></u> <br>
     **Project Report:** A report detailing the progress that I made can be found <a href="/documents/MicroscoPi_Autofocus_Algorithm_Report.pdf">here</a>.
     <br>
     **Project Presentation:** A presentation of my research (Optimised for viewing in Microsoft PowerPoint) can be found <a href="/documents/MicroscoPi_Long_Presentation.pptx">here</a>.
