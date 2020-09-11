@@ -5,7 +5,6 @@
   {% for project in site.data.projects %}
     i = i+1;
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-    carousel = "carousel"+i+".html"
-    {% include carousel height="70" unit="%" duration="1000" %}
+    {% include "carousel"+i+".html" height="70" unit="%" duration="1000" %}
   {% endfor %}
 </div>
