@@ -1,9 +1,9 @@
 <div class="container projects-container">
   <h3>{{ site.projects_title | default: "Research Experience" }}</h3>
-  {% assign carousel_number = 0 %}
+  {% assign i = 0 %}
   {% for project in site.data.projects %}
-    {% carousel_number = carousel_number+1 %}
-    {{ if carousel_number == 1 }}
+    {% assign i = i | plus: 1 %}
+    {% if carousel_number == 1 %}
        {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
        {% include carousel1.html height="70" unit="%" duration="1000" %}
     {% endif %}
