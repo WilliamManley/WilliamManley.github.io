@@ -45,12 +45,15 @@ linkedin_username: williampmanley
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
+
  Motivated by research that makes a difference.
 
- I am a graduate mathematics student and Roche UNIQ+ Graduate scholar at the University of Oxford. 
- I am particularly interested in how mathematics and computational techniques can be used to solve many novel problems arising in biological systems.
- These methods can allow informed decisions to be made that may have a substantial impact in important issues, such as the treatment/understanding of a disease.
- <a href="documents/will_manley_cv.pdf">MyCV</a>
+ I am currently a graduate mathematical sciences student at the University of Oxford.
+ I am particularly interested in how a combination of mathematical and computational techniques can be employed to solve many novel problems arising in biological systems.
+ My research/career ambitions are to be able to use these methods to allow informed decisions to be made that may have a substantial impact on important issues. Such applications
+ may range from the treatment/understanding of a disease to understanding the dynamics of a physiological system.
+
+ For more information please consult <a href="documents/will_manley_cv.pdf">my CV</a> or contact me directly. 
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
