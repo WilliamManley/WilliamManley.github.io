@@ -1,7 +1,9 @@
 # Project template
 - layout: top-middle
   name: MicroscoPi Automated Imaging Platform
-  dates: June - August 2019
+  dates: |
+   June - August 2019
+   <img src="images/micron_logo.png" alt="Micron Logo" style="width:66px;height:80px;">
   link: |
    https://micronoxford.com/
    <br>
