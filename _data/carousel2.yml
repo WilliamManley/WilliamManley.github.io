@@ -1,5 +1,5 @@
 images:
-  - image: /images/BehindHouseVortexFormation.png
-  - image: /images/ForceCoeffMagFrontSideView.png
   - image: /images/StreamLineVorticiesBehindHouse.png
+  - image: /images/ForceCoeffMagFrontSideView.png
+  - image: /images/BehindHouseVortexFormation.png
   - image: /images/StaticPressureCoeffFrontSideView.png
