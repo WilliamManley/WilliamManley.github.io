@@ -37,7 +37,7 @@
 
 
 - layout: top-middle
-  name: Structural Stress Analysis in OpenFOAM
+  name: Structural Stress Analysis & Turbulent Flow in OpenFOAM
   dates: |
    June 2020 - present <br>
    <img src="images/imi_logo.png" alt="IMI Logo" style="width:325px;height:80px;">
