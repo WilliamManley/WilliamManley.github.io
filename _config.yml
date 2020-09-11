@@ -28,9 +28,9 @@ linkedin_username: williampmanley
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#- title: Link name
+#- title: myIMA
 #  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: Link url (eg. https://google.com)
+#  url:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -39,7 +39,9 @@ linkedin_username: williampmanley
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+
+# Google Analytics
+google_analytics: UA-177857672-1
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -50,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
  I am currently a graduate mathematical sciences student at the University of Oxford.
  I am particularly interested in how a combination of mathematical and computational techniques can be employed to solve many novel problems arising in biological systems.
- 
+
  My research/career ambitions are to be able to use such methods to allow informed decisions to be made that may have a substantial impact on important issues. Such applications
  may range from the development of treatment/understanding of a certain disease to gaining a better understanding of the underlying dynamics of a specific physiological system.
 
