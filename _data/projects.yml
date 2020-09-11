@@ -35,7 +35,7 @@
     <br>
     **Project Presentation:** A presentation of my research (Optimised for viewing in Microsoft PowerPoint) can be found <a href="/documents/MicroscoPi_Long_Presentation.pptx">here</a>.
 
-    
+
 - layout: top-middle
   name: Structural Stress Analysis & Turbulent Flow in OpenFOAM
   dates: |
@@ -44,7 +44,29 @@
   link: |
    https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  #quote: >
+  #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+   <u><b>Project Outline:</b></u> <br>
+   Under supervision of the Micron research group at the University of Oxford,
+   I worked on early stage development of the MicroscoPi imaging platform.
+   The aim of the project was to produce a fully automated, robust, 3D printed
+   microscopy platform. Specifically, my task was to develop and implement a
+   fully automated autofocus module, that the user could run on any pre-prepared
+   sample slide and readily obtain a focused sample perspective. <br> <br>
+   <u><b>Main Challenges:</b></u> <br>
+   **No Reference Image:**
+   One thing that made this project unique was having no 'reference image' to compare
+   against, since we needed to apply our module to any given prepared sample, and we
+   were starting from a completely unfocused image. Hence, a "no reference pixel based" method
+   (NRP) as commonly referenced in relevant literature was employed as the logical approach. <br>
+   **Quantifying Focus:**
+   The main problem that we needed to address was how to devise a metric to
+   quantify how in/out of focus a sample is at each stage of the automated process. This
+   corresponded to characterising the image artefact of 'blur' at each stage of the focal refinement process. Two metrics
+   were developed, one using edge feature analysis and the other using Fourier spectra analysis.
+   <br> <br>
+   <u><b>Project Outcomes:</b></u> <br>
+   **Project Report:** A report detailing the progress that I made can be found <a href="/documents/MicroscoPi_Autofocus_Algorithm_Report.pdf">here</a>.
+   <br>
+   **Project Presentation:** A presentation of my research (Optimised for viewing in Microsoft PowerPoint) can be found <a href="/documents/MicroscoPi_Long_Presentation.pptx">here</a>.
