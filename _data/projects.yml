@@ -28,8 +28,7 @@
     The main problem that we needed to address was how to devise a metric to
     quantify how in/out of focus a sample is at each stage of the automated process. This
     corresponded to characterising the image artefact of 'blur' at each stage of the focal refinement process. Two metrics
-    were developed one using edge feature analysis and the other using Fourier spectra analysis (add this detail to the
-    report and that they turned out to be somewhat complementary and hybrid approach).
+    were developed, one using edge feature analysis and the other using Fourier spectra analysis.
     <br> <br>
     **Project Report:** A report detailing the progress that I made can be found <a href="/documents/MicroscoPi_Autofocus_Algorithm_Report.pdf">here</a>.
     <br>
