@@ -5,11 +5,11 @@
      {% assign i = i | plus: 1 %}
      {% if i == 1 %}
         {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-        {% include carousel1.html height="70" unit="%" duration="1000000" %}
+        {% include carousel1.html height="75" unit="%" duration="1000000" %}
      {% endif %}
      {% if i == 2 %}
         {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-        {% include carousel2.html height="70" unit="%" duration="1000000" %}
+        {% include carousel2.html height="75" unit="%" duration="1000000" %}
      {% endif %}
   {% endfor %}
 </div>
