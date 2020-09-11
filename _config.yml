@@ -50,10 +50,10 @@ about_content: | # this will include new lines to allow paragraphs
 
  I am currently a graduate mathematical sciences student at the University of Oxford.
  I am particularly interested in how a combination of mathematical and computational techniques can be employed to solve many novel problems arising in biological systems.
- My research/career ambitions are to be able to use these methods to allow informed decisions to be made that may have a substantial impact on important issues. Such applications
+ My research/career ambitions are to be able to use such methods to allow informed decisions to be made that may have a substantial impact on important issues. Such applications
  may range from the treatment/understanding of a disease to understanding the dynamics of a physiological system.
 
- For more information please consult <a href="documents/will_manley_cv.pdf">my CV</a> or contact me directly. 
+ For more information please consult <a href="documents/will_manley_cv.pdf">my CV</a> or contact me directly.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
