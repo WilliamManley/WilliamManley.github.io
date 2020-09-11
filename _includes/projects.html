@@ -2,14 +2,14 @@
   <h3>{{ site.projects_title | default: "Research Experience" }}</h3>
   {% assign i = 0 %}
   {% for project in site.data.projects %}
-    {% assign i = i | plus: 1 %}
-    {% if carousel_number == 1 %}
-       {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-       {% include carousel1.html height="70" unit="%" duration="1000" %}
-    {% endif %}
-    {% if carousel_number == 2 %}
-       {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-       {% include carousel2.html height="70" unit="%" duration="1000" %}
-    {% endif %}
+     {% assign i = i | plus: 1 %}
+     {% if i == 1 %}
+        {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+        {% include carousel1.html height="70" unit="%" duration="1000" %}
+     {% endif %}
+     {% if i == 2 %}
+        {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+        {% include carousel2.html height="70" unit="%" duration="1000" %}
+     {% endif %}
   {% endfor %}
 </div>
