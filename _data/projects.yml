@@ -41,9 +41,8 @@
   dates: |
    June 2020 - present <br>
    <img src="images/imi_logo.png" alt="IMI Logo" style="width:325px;height:80px;">
-
-
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  link: |
+   https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Short overview of the project (optional)
