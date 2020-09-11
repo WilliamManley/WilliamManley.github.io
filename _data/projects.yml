@@ -2,16 +2,14 @@
 - layout: top-middle
   name: MicroscoPi Automated Imaging Platform
   dates: |
-   June - August 2019
+   June - August 2019 <br>
    <img src="images/micron_logo.png" alt="Micron Logo" style="width:66px;height:80px;">
   link: |
-   https://micronoxford.com/
-   <br>
+   https://micronoxford.com/ <br>
    <img src="images/micron_logo.png" alt="Micron Logo" style="width:66px;height:80px;">
 
   github: |
-   Github page for project (eg. sproogen/modern-resume-theme)(optional)
-   <br>
+   Github page for project (eg. sproogen/modern-resume-theme)(optional) <br>
    <img src="images/micron_logo.png" alt="Micron Logo" style="width:66px;height:80px;">
   quote: >
     An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
