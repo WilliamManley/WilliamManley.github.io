@@ -12,6 +12,11 @@
     An overview of the project and its current state can be found <a href="https://micronoxford.com/microscopi">here</a>
   description: | # this will include new lines to allow paragraphs
     <u><b>Project Outline:</b></u> <br>
+    Lab based microscopy, at a non-specialist level involves the tedious task of focusing onto the
+    prepared sample. If this process is needed to be completed many times it can be incredibly time consuming.
+    Moreover, the human error involved in this task often results in a sub-optimal perception of absolute focus.
+    This is therefore a process that can be optimised by the aid of machine input.
+      
     Under supervision of the Micron research group at the University of Oxford,
     I worked on early stage development of the MicroscoPi imaging platform.
     The aim of the project was to produce a fully automated, robust, 3D printed
