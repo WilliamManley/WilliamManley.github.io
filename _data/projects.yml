@@ -68,8 +68,8 @@
 
    <u><b>Main Challenges:</b></u> <br>
    **Computational Demand:**
-   One of the biggest challenges in CFD is the amount of computational power required to run a simulation on a sufficiently refined computational mesh. Whilst a sufficiently
-   refined mesh is desireable to allow for adequate 'blending' to occur through the viscous sublayers close to the solid boundaries, a trade off can be made in reducing the
+   One of the biggest challenges in CFD is the large computational demand asscoiated with running a simulation on a sufficiently refined computational mesh. Whilst a sufficiently
+   refined mesh is desireable to allow for adequate 'blending' to occur through the viscous sublayer that forms close to the solid boundaries, a trade off can be made in reducing the
    mesh resolution and using interpolating 'wall functions', that are widely studied and proposed in the literature, based on idealised experiments. This was a particularly
    hard problem since I didn't have access to a powerful machine. <br>
    **Numerical Discretisation:**
