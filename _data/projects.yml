@@ -16,7 +16,7 @@
     prepared sample. If this process is needed to be completed many times it can be incredibly time consuming.
     Moreover, the human error involved in this task often results in a sub-optimal perception of absolute focus.
     This is therefore a process that can be optimised by the aid of machine input.
-      
+
     Under supervision of the Micron research group at the University of Oxford,
     I worked on early stage development of the MicroscoPi imaging platform.
     The aim of the project was to produce a fully automated, robust, 3D printed
@@ -53,25 +53,28 @@
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    <u><b>Project Outline:</b></u> <br>
-   Under supervision of the Micron research group at the University of Oxford,
-   I worked on early stage development of the MicroscoPi imaging platform.
-   The aim of the project was to produce a fully automated, robust, 3D printed
-   microscopy platform. Specifically, my task was to develop and implement a
-   fully automated autofocus module, that the user could run on any pre-prepared
-   sample slide and readily obtain a focused sample perspective. <br> <br>
+   Turbulence is one of the most important, yet poorly understood of modern day mathematics. This is due to the inherent chaotic fluctations that
+   can be readily observed in even relatively simple flow scenarios. Modern techniques of turbulence models, apply closure at the mean field. That is, they
+   look at the mean flow and assume that there is no flow variance from stochastic fluctations. This project explores these techniques, as they are used in
+   a computational fluid dynamics (CFD) framework.
+
+   I was originally scheduled to complete this project as a research internship with the Institute of Mathematical Innovation at the University of Bath. However,
+   due to the emergence of COVID-19 the funding for the project was withdrawn. Since this project partticularly interested me, I decided to work on the project anyway
+   without supervision.
+
+   The project proposal originally involved working alongside a structural engineering company and using OpenFOAM CFD turbulence modelling to conduct stress analysis
+   on the boundaries of a given house structure, subject to a widely accepted model for the flow profile in the atmospheric boundary layer. I also decided to conduct
+   some pedestrian analysis - looking at how the wind flow is distorted due to the presence of the house structure.
+
    <u><b>Main Challenges:</b></u> <br>
-   **No Reference Image:**
-   One thing that made this project unique was having no 'reference image' to compare
-   against, since we needed to apply our module to any given prepared sample, and we
-   were starting from a completely unfocused image. Hence, a "no reference pixel based" method
-   (NRP) as commonly referenced in relevant literature was employed as the logical approach. <br>
-   **Quantifying Focus:**
-   The main problem that we needed to address was how to devise a metric to
-   quantify how in/out of focus a sample is at each stage of the automated process. This
-   corresponded to characterising the image artefact of 'blur' at each stage of the focal refinement process. Two metrics
-   were developed, one using edge feature analysis and the other using Fourier spectra analysis.
+   **Computational Demand:**
+   One of the biggest challenges in CFD is the amount of computational power required to run a simulation on a sufficiently refined computational mesh. Whilst a sufficiently
+   refined mesh is desireable to allow for adequate 'blending' to occur through the viscous sublayers close to the solid boundaries, a trade off can be made in reducing the
+   mesh resolution and using interpolating 'wall functions', that are widely studied and proposed in the literature, based on idealised experiments. This was a particularly
+   hard problem since I didn't have access to a powerful machine.
+   **Numerical Discretisation:**
+   Having only studied fluid dynamics at a theoretical level, it was important to develop an understanding of how the theory is realised in a numerical framework.This included
+   making decisions on the most suitable finite volume schemes (FVS) to use for each operator and how each field is mapped through the geometry of successive cells in the mesh.
    <br> <br>
    <u><b>Project Outcomes:</b></u> <br>
-   **Project Report:** A report detailing the progress that I made can be found <a href="/documents/MicroscoPi_Autofocus_Algorithm_Report.pdf">here</a>.
-   <br>
-   **Project Presentation:** A presentation of my research (Optimised for viewing in Microsoft PowerPoint) can be found <a href="/documents/MicroscoPi_Long_Presentation.pptx">here</a>.
+   **Project Presentation:** A presentation of my project can be found here.
