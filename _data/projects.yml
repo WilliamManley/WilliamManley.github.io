@@ -75,8 +75,27 @@
    necessary approach, since I didn't have access to a powerful machine. <br>
    **Numerical Discretisation:**
    Having only studied fluid dynamics at a theoretical level, it was important to develop an understanding of how the theory is realised in a numerical framework. This included
-   making decisions on the most suitable finite volume schemes (FVS) to use for each operator. As well as developing an understanding of exactly how the OpenFOAM software operates, for 
+   making decisions on the most suitable finite volume schemes (FVS) to use for each operator. As well as developing an understanding of exactly how the OpenFOAM software operates, for
    example, how each field is mapped through the geometry of successive cells in the mesh.
    <br> <br>
    <u><b>Project Outcomes:</b></u> <br>
    **Project Presentation:** A presentation of my project can be found here.
+
+
+- layout: top-middle
+  name: The Geometry & Mechanics of Seashells
+  dates: |
+   June 2020 - present <br>
+   <img src="images/imi_logo.png" alt="IMI Logo" style="width:325px;height:80px;">
+  link: |
+   https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #quote: >
+  #  Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   <u><b>Project Outline:</b></u> <br>
+   Turbulence is one of the most abundant, yet poorly understood phenomena in the physical world. Huge difficulty arises due to the inherent chaotic fluctations that
+   can be readily observed in even relatively simple flow scenarios. The most widely ueed analyitcal turbulence models, apply closure at the mean field. That is,
+   they describe behaviour of the averaged flow and assume that there is no flow variance from stochastic fluctations. In most urban settings these models are usually sufficient.
+   However, in higher turbulent scenarios (e.g. oceanic) energy methods such as eddy viscosity models are more useful. In this project, I explore these techniques,
+   and apply then in a computational fluid dynamics (CFD) framework.

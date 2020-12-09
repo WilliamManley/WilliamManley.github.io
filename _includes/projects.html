@@ -11,5 +11,8 @@
         {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
         {% include carousel2.html height="78" unit="%" duration="1000000" %}
      {% endif %}
+     {% if i == 3 %}
+        {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+     {% endif %}
   {% endfor %}
 </div>
