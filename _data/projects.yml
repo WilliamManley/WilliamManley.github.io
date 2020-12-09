@@ -53,45 +53,30 @@
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    <u><b>Project Outline:</b></u> <br>
-   Turbulence is one of the most important, yet poorly understood of modern day mathematics. This is due to the inherent chaotic fluctations that
-   can be readily observed in even relatively simple flow scenarios. Modern techniques of turbulence models, apply closure at the mean field. That is, they
-   look at the mean flow and assume that there is no flow variance from stochastic fluctations. This project explores these techniques, as they are used in
-   a computational fluid dynamics (CFD) framework.
+   Turbulence is one of the most abundant, yet poorly understood phenomena in the physical world. Huge difficulty arises due to the inherent chaotic fluctations that
+   can be readily observed in even relatively simple flow scenarios. The most widely ueed analyitcal turbulence models, apply closure at the mean field. That is,
+   they describe behaviour of the averaged flow and assume that there is no flow variance from stochastic fluctations. In most urban settings these models are usually sufficient.
+   However, in higher turbulent scenarios (e.g. oceanic) energy methods such as eddy viscosity models are more useful. In this project, I explore these techniques,
+   and apply then in a computational fluid dynamics (CFD) framework.
 
-   I was originally scheduled to complete this project as a research internship with the Institute of Mathematical Innovation at the University of Bath. However,
+   I was originally planning to complete this project as a research internship with the Institute of Mathematical Innovation at the University of Bath. However,
    due to the emergence of COVID-19 the funding for the project was withdrawn. Since this project partticularly interested me, I decided to work on the project anyway
    without supervision.
 
    The project proposal originally involved working alongside a structural engineering company and using OpenFOAM CFD turbulence modelling to conduct stress analysis
    on the boundaries of a given house structure, subject to a widely accepted model for the flow profile in the atmospheric boundary layer. I also decided to conduct
-   some pedestrian analysis - looking at how the wind flow is distorted due to the presence of the house structure.
+   some pedestrian analysis - looking at how the wind flow is distorted by the presence of the house structure.
 
    <u><b>Main Challenges:</b></u> <br>
    **Computational Demand:**
    One of the biggest challenges in CFD is the large computational demand asscoiated with running a simulation on a sufficiently refined computational mesh. Whilst a sufficiently
    refined mesh is desireable to allow for adequate 'blending' to occur through the viscous sublayer that forms close to the solid boundaries, a trade off can be made in reducing the
-   mesh resolution and using interpolating 'wall functions', that are widely studied and proposed in the literature, based on idealised experiments. This was a particularly
-   hard problem since I didn't have access to a powerful machine. <br>
+   mesh resolution and using interpolating 'wall functions', that are widely studied and proposed in the literature, and based on idealised experiments. This was a particularly
+   necessary approach, since I didn't have access to a powerful machine. <br>
    **Numerical Discretisation:**
-   Having only studied fluid dynamics at a theoretical level, it was important to develop an understanding of how the theory is realised in a numerical framework.This included
-   making decisions on the most suitable finite volume schemes (FVS) to use for each operator and how each field is mapped through the geometry of successive cells in the mesh.
+   Having only studied fluid dynamics at a theoretical level, it was important to develop an understanding of how the theory is realised in a numerical framework. This included
+   making decisions on the most suitable finite volume schemes (FVS) to use for each operator. As well as developing an understanding of how the OpenFOAM software works, for 
+   example, how each field is mapped through the geometry of successive cells in the mesh.
    <br> <br>
    <u><b>Project Outcomes:</b></u> <br>
    **Project Presentation:** A presentation of my project can be found here.
-
-- layout: top-middle
-  name: The Geometry & Mechanics of Seashells
-  dates: |
-   December 2020 - present <br>
-   <img src="images/imi_logo.png" alt="IMI Logo" style="width:325px;height:80px;">
-  link: |
-   https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  #quote: >
-  #  Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-   <u><b>Project Outline:</b></u> <br>
-   Turbulence is one of the most important, yet poorly understood of modern day mathematics. This is due to the inherent chaotic fluctations that
-   can be readily observed in even relatively simple flow scenarios. Modern techniques of turbulence models, apply closure at the mean field. That is, they
-   look at the mean flow and assume that there is no flow variance from stochastic fluctations. This project explores these techniques, as they are used in
-   a computational fluid dynamics (CFD) framework.
