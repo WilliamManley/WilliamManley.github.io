@@ -85,17 +85,20 @@
 - layout: top-middle
   name: The Geometry & Mechanics of Seashells
   dates: |
-   June 2020 - present <br>
-   <img src="images/imi_logo.png" alt="IMI Logo" style="width:325px;height:80px;">
-  link: |
-   https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/
+   December 2020 - April 2021 <br>
+#  link: |
+#   https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    <u><b>Project Outline:</b></u> <br>
-   Turbulence is one of the most abundant, yet poorly understood phenomena in the physical world. Huge difficulty arises due to the inherent chaotic fluctations that
-   can be readily observed in even relatively simple flow scenarios. The most widely ueed analyitcal turbulence models, apply closure at the mean field. That is,
-   they describe behaviour of the averaged flow and assume that there is no flow variance from stochastic fluctations. In most urban settings these models are usually sufficient.
-   However, in higher turbulent scenarios (e.g. oceanic) energy methods such as eddy viscosity models are more useful. In this project, I explore these techniques,
-   and apply then in a computational fluid dynamics (CFD) framework.
+   Seashells are a beautiful example of biological growth and pattern formation. The brittle, calcite structures are a result of an accretive growth process eminating
+   from the valve - a thin, elastic organ of the inhabitant mollusc. Seashells exhibit fascinating geometric properties including; self similarity, mathematical regularity
+   and perfectly out of phase shell coupling is observed in bivalved molluscs. These properties prompt many questions: from a biological standpoint, we may ask why such observations
+   are of a genetic advantage, whilst from a mathematical standpoint, we might ask about the mechanism underlying the control of the growth process.
+
+   I am currently writting a dissertation on this topic. Currently, my idea for the project is to develop a geometric framework to describe the accretive shell growth process and develop
+   models for the instability mechanisms driving both mechanical and chemical pattern formation, leading to shell ornamentation and pigmentation. I plan on implementing these models into
+   a complete computational framework. Under this framework, I would like to be able to replicate a specific shell and from hopefully make inference on the evolutionary history of the species,
+   under the model parameters that give rise to the shell replication.
