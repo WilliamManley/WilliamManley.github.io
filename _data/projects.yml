@@ -75,7 +75,7 @@
    necessary approach, since I didn't have access to a powerful machine. <br>
    **Numerical Discretisation:**
    Having only studied fluid dynamics at a theoretical level, it was important to develop an understanding of how the theory is realised in a numerical framework. This included
-   making decisions on the most suitable finite volume schemes (FVS) to use for each operator. As well as developing an understanding of how the OpenFOAM software works, for 
+   making decisions on the most suitable finite volume schemes (FVS) to use for each operator. As well as developing an understanding of exactly how the OpenFOAM software operates, for 
    example, how each field is mapped through the geometry of successive cells in the mesh.
    <br> <br>
    <u><b>Project Outcomes:</b></u> <br>
