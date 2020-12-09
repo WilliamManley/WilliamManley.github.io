@@ -78,3 +78,20 @@
    <br> <br>
    <u><b>Project Outcomes:</b></u> <br>
    **Project Presentation:** A presentation of my project can be found here.
+
+- layout: top-middle
+  name: The Geometry & Mechanics of Seashells
+  dates: |
+   December 2020 - present <br>
+   <img src="images/imi_logo.png" alt="IMI Logo" style="width:325px;height:80px;">
+  link: |
+   https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #quote: >
+  #  Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   <u><b>Project Outline:</b></u> <br>
+   Turbulence is one of the most important, yet poorly understood of modern day mathematics. This is due to the inherent chaotic fluctations that
+   can be readily observed in even relatively simple flow scenarios. Modern techniques of turbulence models, apply closure at the mean field. That is, they
+   look at the mean flow and assume that there is no flow variance from stochastic fluctations. This project explores these techniques, as they are used in
+   a computational fluid dynamics (CFD) framework.
