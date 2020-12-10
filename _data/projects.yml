@@ -54,10 +54,14 @@
   description: | # this will include new lines to allow paragraphs
    <u><b>Project Outline:</b></u> <br>
    Turbulence is one of the most abundant, yet poorly understood phenomena in the physical world. Huge difficulty arises due to the inherent chaotic fluctations that
-   can be readily observed in even relatively simple flow scenarios. The most widely ueed analyitcal turbulence models, apply closure at the mean field. That is,
-   they describe behaviour of the averaged flow and assume that there is no flow variance from stochastic fluctations. In most urban settings these models are usually sufficient.
-   However, in higher turbulent scenarios (e.g. oceanic models) energy methods such as eddy viscosity models are more useful. In this project, I explore these techniques,
-   and apply then in a computational fluid dynamics (CFD) framework.
+   can be readily observed in even relatively simple flow scenarios. The most widely ueed analyitcal turbulence models are Navier-Stoke type models and decompose the flow
+   into a mean flow component and a stochastically fluctauting flow componenet. Averaging the resulting equations leads to a tractable model for the mean field flow. However,
+   there is a problem of closure of the Reynold's stress term. Most commonly, the Bousinessq hypothesis is used to close the mean flow equations. This hypothesis is an energy
+   model that accounts for the energy dissipation in a cascade down the length scales of eddies. This allows us to relate the Reynold's stress solely to the mean flow and
+   obtain a fully closed set of equations.
+   In most urban settings models for the mean flow are usually sufficient - the effect of stochastic fluctations is relatively mild. However, in higher turbulent scenarios,
+   (e.g. oceanic models) these models become insufficient.
+   In this project, I explore these techniques, and apply then in a computational fluid dynamics (CFD) framework.
 
    I was originally planning to complete this project as a research internship with the Institute of Mathematical Innovation at the University of Bath. However,
    due to the emergence of COVID-19 the funding for the project was withdrawn. Since this project partticularly interested me, I decided to work on the project anyway
