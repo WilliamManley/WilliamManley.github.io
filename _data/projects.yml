@@ -56,7 +56,7 @@
    Turbulence is one of the most abundant, yet poorly understood phenomena in the physical world. Huge difficulty arises due to the inherent chaotic fluctations that
    can be readily observed in even relatively simple flow scenarios. The most widely ueed analyitcal turbulence models, apply closure at the mean field. That is,
    they describe behaviour of the averaged flow and assume that there is no flow variance from stochastic fluctations. In most urban settings these models are usually sufficient.
-   However, in higher turbulent scenarios (e.g. oceanic) energy methods such as eddy viscosity models are more useful. In this project, I explore these techniques,
+   However, in higher turbulent scenarios (e.g. oceanic models) energy methods such as eddy viscosity models are more useful. In this project, I explore these techniques,
    and apply then in a computational fluid dynamics (CFD) framework.
 
    I was originally planning to complete this project as a research internship with the Institute of Mathematical Innovation at the University of Bath. However,
