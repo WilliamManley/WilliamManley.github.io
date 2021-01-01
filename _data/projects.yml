@@ -97,12 +97,13 @@
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    <u><b>Project Outline:</b></u> <br>
-   Seashells are a beautiful example of biological growth and pattern formation. The brittle, calcite structures are a result of an accretive growth process eminating
-   from the valve - a thin, elastic organ of the inhabitant mollusc. Seashells exhibit fascinating geometric properties including; self similarity, mathematical regularity
-   and perfectly out of phase shell coupling is observed in bivalved molluscs. These properties prompt many questions: from a biological standpoint, we may ask why such observations
-   are of a genetic advantage, whilst from a mathematical standpoint, we might ask about the mechanism underlying the control of the growth process.
+   Seashells showcase a beautiful example of biological growth and pattern formation. The brittle, calcite structures are the result of an accretive growth process eminating
+   from the valve - a thin, elastic organ of the inhabitant mollusc. From a global perspective, seashells often exhibit fascinating geometric properties, such as self-similarity,
+   mathematical regularity and structural ornamentations. These observations prompt many interesting questions. The key to understanding the growth process is to ask
+   how the molluscs operate on a local level to achieve this, i.e what are the growth 'rules' that govern the secretion of shell mass from the mantle. From a biological standpoint,
+   we may ask why such observations are of a genetic advantage, whilst from a mathematical standpoint, we might ask about the mechanism underlying the control of the growth process.
 
-   I am currently writting a dissertation on this topic. Currently, my idea for the project is to develop a geometric framework to describe the accretive shell growth process and develop
-   models for the instability mechanisms driving both mechanical and chemical pattern formation, leading to shell ornamentation and pigmentation. I plan on implementing these models into
-   a complete computational framework. Under this framework, I would like to be able to replicate a specific shell and from hopefully make inference on the evolutionary history of the species,
-   under the model parameters that give rise to the shell replication.
+   I am currently writting my dissertation on this topic. I will be focussing on both growth and form of seashells. That will include developing a geometric framework to describe
+   the accretive shell growth process and establishing models for the instability mechanisms driving mechanical pattern formation, resulting in shell ornamentations such as ribs amd spines.
+   I will be implementing these models into a computational framework in Mathematica. Under this framework, I will be able to replicate examples of specific shells and potentially be able to
+   make inference on the evolutionary history of the species, under the model parameters that give rise to the shell replication.
