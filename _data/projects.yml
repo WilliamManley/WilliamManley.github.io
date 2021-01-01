@@ -102,7 +102,7 @@
    mathematical regularity and structural ornamentations. These observations prompt many interesting questions about how these features arise. The key to answering this is
    to understand the growth process on local level: how the molluscs themselves operate, i.e. what are the growth 'rules' that govern the secretion of shell mass from the mantle.
 
-   I am currently writting my dissertation on this topic. I will be focussing on both growth and form of seashells. That will include developing a geometric framework to describe
+   I am currently writting my dissertation on this topic. I will be focussing both on the growth and form of seashells. That will include developing a geometric framework to describe
    the accretive shell growth process and establishing models for the instability mechanisms driving mechanical pattern formation, resulting in shell ornamentations such as ribs and spines.
    I will be implementing these models into a computational framework in Mathematica. Under this framework, I will be able to replicate examples of specific shells and potentially be able to
    make inference on the evolutionary history of the species, under the model parameters that give rise to the shell replication.
