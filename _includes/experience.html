@@ -2,5 +2,6 @@
   <h3>{{ site.experience_title | default: "Work Experience" }}</h3>
   {% for experience in site.data.experience %}
     {% include {{ experience.layout | default: 'left' | append: ".html" }} item=experience %}
+    {% include AgSpaceCarousel.html height="78" unit="%" duration="1000000" %}
   {% endfor %}
 </div>
