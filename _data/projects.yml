@@ -13,21 +13,22 @@
   description: | # this will include new lines to allow paragraphs
     <u><b>Project Outline:</b></u> <br>
     Lab based microscopy, at a non-specialist level involves the tedious task of focusing onto the
-    prepared sample. If this process is needed to be completed many times it can be incredibly time consuming.
+    prepared sample. Often this process is needed to be replicated multiple times and can become incredibly time consuming.
     Moreover, the human error involved in this task often results in a sub-optimal perception of absolute focus.
     This is therefore a process that can be optimised by the aid of machine input.
 
     Under supervision of the Micron research group at the University of Oxford,
     I worked on early stage development of the MicroscoPi imaging platform.
     The aim of the project was to produce a fully automated, robust, 3D printed
-    microscopy platform. Specifically, my task was to develop and implement a
-    fully automated autofocus module, that the user could run on any pre-prepared
-    sample slide and readily obtain a focused sample perspective. <br> <br>
+    microscopy platform. Specifically, my task was to develop and implement an autonomous
+    autofocus module, that the user could run on any pre-prepared
+    sample slide, under any light source and readily obtain a focused sample perspective.
+    The crux of the problem was to reformulate the problem in a computer vision context. <br> <br>
     <u><b>Main Challenges:</b></u> <br>
     **No Reference Image:**
     One thing that made this project unique was having no 'reference image' to compare
     against, since we needed to apply our module to any given prepared sample, and we
-    were starting from a completely unfocused image. Hence, a "no reference pixel based" method
+    were starting from a completely unfocused image. Hence, a "no reference, pixel-based" method
     (NRP) as commonly referenced in relevant literature was employed as the logical approach. <br>
     **Quantifying Focus:**
     The main problem that we needed to address was how to devise a metric to
