@@ -63,11 +63,7 @@
    (e.g. oceanic models) these models become insufficient.
    In this project, I explore these techniques, and apply then in a computational fluid dynamics (CFD) framework.
 
-   I was originally planning to complete this project as a research internship with the Institute of Mathematical Innovation at the University of Bath. However,
-   due to the emergence of COVID-19 the funding for the project was withdrawn. Since this project partticularly interested me, I decided to work on the project anyway
-   without supervision.
-
-   The project proposal originally involved working alongside a structural engineering company and using OpenFOAM CFD turbulence modelling to conduct stress analysis
+   The project proposal involved working alongside a structural engineering company and using OpenFOAM CFD turbulence modelling to conduct stress analysis
    on the boundaries of a given house structure, subject to a widely accepted model for the flow profile in the atmospheric boundary layer. I also decided to conduct
    some pedestrian analysis - looking at how the wind flow is distorted by the presence of the house structure.
 
