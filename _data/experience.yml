@@ -10,9 +10,12 @@
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    <u><b>Project Outline:</b></u> <br>
-    Lab based microscopy, at a non-specialist level involves the tedious task of focusing onto the
-    prepared sample.
+    The farming industry has experienced a recent transition into the era of *precision agriculture*. With the availability of data skyrocketting in recent years,
+    the industry has been hit by a wave of interest and use cases for machine learning and computer vision techniques.
 
-    **Project Presentations:** A presentation on the data processing pipeline can be found <a href="/documents/AGSpacePresentation.pdf">here</a> 
-    (To animate the GIFs requires reading with <a href="https://get.adobe.com/uk/reader/otherversions/"> Adobe Acroread </a>).
+    <u><b>Project Outline:</b></u> <br>
+
+    **Project Presentations:**
+    A presentation on the data processing pipeline can be found <a href="/documents/AGSpacePresentation.pdf">here</a>
+    (Animation of GIFs will require reading with <a href="https://get.adobe.com/uk/reader/otherversions/"> Adobe Acroread </a>). <br>
+    A presentation on our trained model's performance (Optimised for viewing in Microsoft PowerPoint) can be found <a href="/documents/Crop Type Detection.pptx">here</a>.
