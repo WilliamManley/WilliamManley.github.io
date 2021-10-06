@@ -75,9 +75,9 @@
    mesh resolution and using interpolating 'wall functions', that are widely studied and proposed in the literature, and based on idealised experiments. This was a particularly
    necessary approach, since I didn't have access to a powerful machine. <br>
    **Numerical Discretisation:**
-   Having only studied fluid dynamics at a theoretical level, it was important to develop an understanding of how the theory is realised in a numerical framework. This included
-   making decisions on the most suitable finite volume schemes (FVS) to use for each operator. As well as developing an understanding of exactly how the OpenFOAM software operates, for
-   example, how each field is mapped through the geometry of successive cells in the mesh.
+   It was important to develop an understanding of how to translate the theory of fluid dynamics into a numerical framework. This included making decisions on the
+   most suitable finite volume schemes (FVS) to use for each operator and how to discretise the physical quantities: space, time, energy & angle. It was also necessary
+   to develop an understanding of exactly how the OpenFOAM software operates, for example, how each field is mapped through the geometry of successive cells in the mesh.
    <br> <br>
    <u><b>Project Outcomes:</b></u> <br>
    **Project Presentation:** A presentation of my project can be found here.

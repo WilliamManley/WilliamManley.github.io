@@ -8,14 +8,17 @@
    June 2021 - August 2021 <br>
    <img src="images/agspace_logo.png" alt="AgSpace Logo" style="width:258px;height:68px;">
   quote: >
-   Short description of the company (optional)
+   *Digitally Transforming Farming*
   description: | # this will include new lines to allow paragraphs
     The farming industry has experienced a recent transition into the era of *precision agriculture*. With the availability of data skyrocketting in recent years,
-    the industry has been hit by a wave of interest and use cases for machine learning and computer vision techniques.
+    the industry has been hit by a wave of interest and use cases for machine learning and computer vision techniques. Seasonal variation in the past has made farming an
+    incredibly volatile market - the influence of machine learning has allowed for predictions to be made that can allow farmers to maximise their potential yields. By feeding in
+    a constant stream of data giving insight on features ranging from soil pH to precipitation volumes, an increase of as much as 300% to a farmer's profits can be expected.
 
     <u><b>Project Outline:</b></u> <br>
+    Our team was given the problem of extracting the crop type contained in a specific field, given 12 band satellite imager
 
-    **Project Presentations:**
+    **Project Presentations:** <br>
     A presentation on the data processing pipeline can be found <a href="/documents/AGSpacePresentation.pdf">here</a>
     (Animation of GIFs will require reading with <a href="https://get.adobe.com/uk/reader/otherversions/"> Adobe Acroread </a>). <br>
     A presentation on our trained model's performance (Optimised for viewing in Microsoft PowerPoint) can be found <a href="/documents/Crop Type Detection.pptx">here</a>.
