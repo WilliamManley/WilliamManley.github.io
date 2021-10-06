@@ -4,8 +4,9 @@
   link: |
    https://ag-space.com/
   job_title: Machine Learning Intern
-  dates: June 2021 - August 2021 <br>
-  <img src="images/agspace_logo.png" alt="AgSpace Logo" style="width:172px;height:80px;">
+  dates:
+   June 2021 - August 2021 <br>
+   <img src="images/agspace_logo.png" alt="AgSpace Logo" style="width:172px;height:80px;">
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
