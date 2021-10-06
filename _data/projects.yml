@@ -23,7 +23,7 @@
     microscopy platform. Specifically, my task was to develop and implement an autonomous
     autofocus module, that the user could run on any pre-prepared
     sample slide, under any light source and readily obtain a focused sample perspective.
-    The crux of the problem was to reformulate the problem in a computer vision context. <br> <br>
+    The crux of the problem was the reformulation of focus into a computer vision context. <br> <br>
     <u><b>Main Challenges:</b></u> <br>
     **No Reference Image:**
     One thing that made this project unique was having no 'reference image' to compare
