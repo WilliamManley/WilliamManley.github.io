@@ -27,21 +27,17 @@
 
     <u><b>Main Challenges:</b></u> <br>
     **Dealing with Big Data:**
-
     It was necessary to optimise the infastructure of the data pre-processing pipeline using multi-processing/multi-threading, etc. due to the size of data that needed handling.
     A single raw data instance contained pixel values for a whole image across 4 spectral bands along with geospatial and semantic labelling. The model required a substatinal number
-    of data points (~1,000) across each class for the models to perform well, hence this was a key process in accelerating the stream of dataflow.
-    Description of the many features ...<br>
+    of data points (~1,000) across each class for the models to perform well, hence this was a key process in accelerating the stream of dataflow.<br>
     **Pre-Processing Challenges:**
-
     A lot of pre-processing was needed to ensure that the data was in a format that would be susceptible to our model frameworks. The data needed to be labelled, filtered and linked
     accordingly throughout the commpany database. We then needed to clip out specific fields from whole farm images by using the georeferencing data. The images needed to be downsampled -
     model performance was largely unaffected with a relatively large amount of downsampling. New features such as the *Normalised Difference Vegative Index*, which is a metric characterising
     the amount of biomass present in an image were calculated and found to be important features. It was necessary to standardise image arrays were to aid model performance: images were padded/cropped
     to standard dimensions and pixel intensities were normalised. A data augmentation process was implemented to produce artificial data points to bulk up some classes with low data count and a principle
-    component analysis was conducted to reduce the dimensionality of the problem. 
+    component analysis was conducted to reduce the dimensionality of the problem.
 
-    Talk about all the stages.
     <br> <br>
 
     **Project Presentations:** <br>
