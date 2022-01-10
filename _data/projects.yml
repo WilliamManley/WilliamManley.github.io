@@ -98,10 +98,11 @@
    for a unified theory of the *magneto-active elastica*. An example application is to implement non-invasive surgery/drug delivery systems. In this context, microscale, hard-magnetic
    'robots' that cannot faesibly be motorised due to the associated length scale are able to be locomoted deterministically via. an externally applied magnetic field.
 
-    The aim of this dissertation is two-fold. Firstly, to unify the theory of elastic rods with magnetism, by considering suitable balance laws and enrgy minimisation, resulting in
-    a closed set of non-linear differential equations. And secondly, to take the resulting equations and solve for the steady state deflections under various classes of applied
-    magnetic fields, which in principle can be mapped onto a target location in space when viewed as an *inverse problem*.
-     
+    The aim of this dissertation is two-fold. Firstly, to unify the theory of elastic rods with magnetism. This will be done by considering suitable conservation/balance laws and
+    enrgy minimisation principles, which upon applying constitutive relationships specific to the material, will result in a closed, non-linear, differential system. After the
+    governing equations have been set out, we solve for the steady state deflections under various classes of applied magnetic fields, which in principle can be mapped onto a
+    target location in space when viewed as an *inverse problem*.
+
 #   Seashells showcase a beautiful example of biological growth and pattern formation. The brittle, calcite structures are the result of an accretive growth process eminating
 #   from the valve - a thin, elastic organ of the inhabitant mollusc. From a global perspective, seashells often exhibit fascinating geometric properties, such as self-similarity,
 #   mathematical regularity and structural ornamentations. These observations prompt many interesting questions about how these features arise. The key to answering this is
