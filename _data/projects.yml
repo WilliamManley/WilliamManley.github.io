@@ -94,12 +94,20 @@
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    <u><b>Project Outline:</b></u> <br>
-   Seashells showcase a beautiful example of biological growth and pattern formation. The brittle, calcite structures are the result of an accretive growth process eminating
-   from the valve - a thin, elastic organ of the inhabitant mollusc. From a global perspective, seashells often exhibit fascinating geometric properties, such as self-similarity,
-   mathematical regularity and structural ornamentations. These observations prompt many interesting questions about how these features arise. The key to answering this is
-   to understand the growth process on local level: how the molluscs themselves operate, i.e. what are the growth 'rules' that govern the secretion of shell mass from the mantle.
+   Traditionally, classical theories of elasticity and magnetism are studied in isolation. However, a recent emergence of exciting engineering applications has prompted the need
+   for a unified theory of the *magneto-active elastica*. An example application is to implement non-invasive surgery/drug delivery systems. In this context, microscale, hard-magnetic
+   'robots' that cannot faesibly be motorised due to the associated length scale are able to be locomoted deterministically via. an externally applied magnetic field.
 
-   I am currently writting my dissertation on this topic. I will be focussing both on the growth and form of seashells. That will include developing a geometric framework to describe
-   the accretive shell growth process and establishing models for the instability mechanisms driving mechanical pattern formation, resulting in shell ornamentations such as ribs and spines.
-   I will be implementing these models into a computational framework in Mathematica. Under this framework, I will be able to replicate examples of specific shells and potentially be able to
-   make inference on the evolutionary history of the species, under the model parameters that give rise to the shell replication.
+    The aim of this dissertation is two-fold. Firstly, to unify the theory of elastic rods with magnetism, by considering suitable balance laws and enrgy minimisation, resulting in
+    a closed set of non-linear differential equations. And secondly, to take the resulting equations and solve for the steady state deflections under various classes of applied
+    magnetic fields, which in principle can be mapped onto a target location in space when viewed as an *inverse problem*.
+     
+#   Seashells showcase a beautiful example of biological growth and pattern formation. The brittle, calcite structures are the result of an accretive growth process eminating
+#   from the valve - a thin, elastic organ of the inhabitant mollusc. From a global perspective, seashells often exhibit fascinating geometric properties, such as self-similarity,
+#   mathematical regularity and structural ornamentations. These observations prompt many interesting questions about how these features arise. The key to answering this is
+#   to understand the growth process on local level: how the molluscs themselves operate, i.e. what are the growth 'rules' that govern the secretion of shell mass from the mantle.
+#
+#   I am currently writting my dissertation on this topic. I will be focussing both on the growth and form of seashells. That will include developing a geometric framework to describe
+#   the accretive shell growth process and establishing models for the instability mechanisms driving mechanical pattern formation, resulting in shell ornamentations such as ribs and spines.
+#   I will be implementing these models into a computational framework in Mathematica. Under this framework, I will be able to replicate examples of specific shells and potentially be able to
+#   make inference on the evolutionary history of the species, under the model parameters that give rise to the shell replication.
